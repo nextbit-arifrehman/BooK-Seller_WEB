@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h2>Hellow Bookvers</h2>
+    
     </>
   )
 }
